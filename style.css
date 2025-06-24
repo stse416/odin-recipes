@@ -1,0 +1,46 @@
+body{
+    margin: 2%;
+    background-color: lightgrey;
+}
+
+.recipe_pic{
+    display: block;
+    margin: auto;
+}
+
+#recipe_list_container{
+    text-align: center;
+}
+
+#recipe_list{
+    display: inline-block;
+    margin-left: auto;
+    text-align: left;
+}
+
+.recipe_description{
+    margin-top: -15px;
+    margin-left: 20px;
+}
+
+.home_link{
+    display: block;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+h5{
+    text-align:center;
+    margin-top: 4px;
+}
+
+ol>li{
+    padding-bottom: 6px;
+}
